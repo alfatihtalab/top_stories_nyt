@@ -18,7 +18,12 @@ See also:
 - Implementation of search by news title or Author name. 
 
 ## Usage
+- Add your APIKey under the directory: /lib/utilties/constants.dart
+- Name it as the flowing dart code
 
+```dart
+const String apiKey = "YOUR_API_KEY";
+```
 
 ```dart
 $ flutter pub get
