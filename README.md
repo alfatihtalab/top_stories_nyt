@@ -24,6 +24,7 @@ See also:
 ```dart
 const String apiKey = "YOUR_API_KEY";
 ```
+- to run the app:
 
 ```dart
 $ flutter pub get
