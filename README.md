@@ -1,5 +1,5 @@
 
-#NYT App
+# NYT App
 
 
 A Flutter app presenting a list of all New York Times Top Stories in a master view, with a detail 
